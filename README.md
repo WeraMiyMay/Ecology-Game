@@ -6,6 +6,10 @@
 ![Eco Banner](https://img.shields.io/badge/status-private-green?style=for-the-badge)
 ![Built With](https://img.shields.io/badge/built%20with-PHP%20%7C%20JS%20%7C%20SQL%20%7C%20HTML%20%7C%20CSS-8A2BE2?style=for-the-badge)
 
+---
+
+### 🌐 [Visit the Website](http://h33396cq.beget.tech/)  
+
 </div>
 
 ---

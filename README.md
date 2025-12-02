@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 **Ecologiсa**  
+#  **Ecologiсa**  
 ### *An Educational Web Application Promoting Environmental Awareness*
 
 ![Eco Banner](https://img.shields.io/badge/status-private-green?style=for-the-badge)
@@ -35,9 +35,9 @@ In today’s world, where ecological issues are increasingly urgent, accessible 
 
 The main goal of *Ecologica* is to educate and engage users on environmental topics while developing key skills such as:
 
-- 🌍 Ecological literacy and sustainable thinking  
-- 💡 Critical and analytical thinking  
-- 🧩 Decision-making and problem-solving  
+-  Ecological literacy and sustainable thinking  
+-  Critical and analytical thinking  
+-  Decision-making and problem-solving  
 
 ### Project Objectives:
 
@@ -55,21 +55,21 @@ The main goal of *Ecologica* is to educate and engage users on environmental top
 - 🧩 *Visual Studio Code* (v1.93+)
 
 **Core Technologies:**  
-- 🐘 **PHP** (v8.2) — server-side logic and database interaction  
-- 🧠 **JavaScript (ES6+)** — client-side interactivity and dynamic content  
-- 🗃️ **MySQL** (v8.0) — relational database for storing environmental data  
-- 🧾 **HTML5** — structure of the web pages  
-- 🎨 **CSS3** — styling and responsive layout design  
+-  **PHP** (v8.2) — server-side logic and database interaction  
+-  **JavaScript (ES6+)** — client-side interactivity and dynamic content  
+-  **MySQL** (v8.0) — relational database for storing environmental data  
+-  **HTML5** — structure of the web pages  
+-  **CSS3** — styling and responsive layout design  
 
 **Frameworks & Libraries:**  
-- 💨 **Tailwind CSS** (v3.4) — utility-first CSS framework for clean and flexible UI  
-- 🌌 **Three.js** (r161) — 3D graphics and interactive visualizations  
-- ✨ **AOS.js** (v2.3.4) — scroll-based animation library for smooth transitions and effects  
+-  **Tailwind CSS** (v3.4) — utility-first CSS framework for clean and flexible UI  
+-  **Three.js** (r161) — 3D graphics and interactive visualizations  
+-  **AOS.js** (v2.3.4) — scroll-based animation library for smooth transitions and effects  
 
 **Database Tools:**  
-- 🛠️ **PhpMyAdmin** — database management and interface for MySQL  
+-  **PhpMyAdmin** — database management and interface for MySQL  
 
-> ⚠️ Note: The site currently does **not** include an SSL certificate.  
+>  Note: The site currently does **not** include an SSL certificate.  
 > Further development of the project is **not planned** at this time.
 
 ---

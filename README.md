@@ -14,7 +14,7 @@
 
 ---
 
-## 🌱 Overview
+##  Overview
 
 **Ecologiсa** is an educational web application designed to raise public awareness about the importance of environmental protection.  
 Originally created as a **pet project**, it later evolved into a **graduation thesis project** due to its potential impact and educational value.  
@@ -24,14 +24,14 @@ By combining **game mechanics** with **learning elements**, *Ecologica* encourag
 
 ---
 
-## 🌍 Relevance
+##  Relevance
 
 In today’s world, where ecological issues are increasingly urgent, accessible and engaging educational tools are essential.  
 *Ecologica* bridges the gap between education and interactivity — transforming learning about the environment into an enjoyable experience.
 
 ---
 
-## 🎯 Purpose and Goals
+##  Purpose and Goals
 
 The main goal of *Ecologica* is to educate and engage users on environmental topics while developing key skills such as:
 
@@ -49,10 +49,10 @@ The main goal of *Ecologica* is to educate and engage users on environmental top
 
 ---
 
-## ⚙️ Technical Details
+##  Technical Details
 
 **Development Environment:**  
-- 🧩 *Visual Studio Code* (v1.93+)
+-  *Visual Studio Code* (v1.93+)
 
 **Core Technologies:**  
 -  **PHP** (v8.2) — server-side logic and database interaction  

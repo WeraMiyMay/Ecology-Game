@@ -3,7 +3,6 @@
 #  **Ecologiсa**  
 ### *An Educational Web Application Promoting Environmental Awareness*
 
-![Eco Banner](https://img.shields.io/badge/status-private-green?style=for-the-badge)
 ![Built With](https://img.shields.io/badge/built%20with-PHP%20%7C%20JS%20%7C%20SQL%20%7C%20HTML%20%7C%20CSS-8A2BE2?style=for-the-badge)
 
 
@@ -22,6 +21,8 @@ Originally created as a **pet project**, it later evolved into a **graduation th
 The application introduces users to the fundamentals of ecology and sustainable development in an engaging, interactive way.  
 By combining **game mechanics** with **learning elements**, *Ecologica* encourages users to explore real-world environmental issues through challenges and problem-solving activities.
 
+
+![Логотип проекта](ec.png)
 ---
 
 ##  Relevance

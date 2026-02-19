@@ -56,7 +56,7 @@ The main goal of *Ecologica* is to educate and engage users on environmental top
 -  *Visual Studio Code* (v1.93+)
 
 **Core Technologies:**  
-- **PHP** (v8.2) — server-side logic and application backend  
+- **PHP** (v8.3) — server-side logic and application backend  
 - **JavaScript (ES6+)** — client-side interactivity and dynamic content  
 - **MySQL** (v8.0) — relational database for storing environmental data  
 - **HTML5** — structure of the web pages  
